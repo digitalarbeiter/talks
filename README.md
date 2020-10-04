@@ -13,3 +13,10 @@ https://www.meetup.com/de-DE/Search-Meetup-Karlsruhe/events/241000548/
 Occasion: pycon.de 2017
 Video: https://www.youtube.com/watch?v=2fuW9ITUXrU
 
+## Suggestions From Python And Solr
+
+Occasion: pycon.de 2018
+Video: https://www.youtube.com/watch?v=Z17JLncewyo
+
+Slides are on some old hard drive I have yet to dig up...
+
