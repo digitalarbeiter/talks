@@ -42,3 +42,9 @@ I also gave this talk at the inaugural Python Meetup Stuttgart in April 2019:
  * https://www.meetup.com/Karlsruhe-Python-Meetup/
  * https://www.meetup.com/Karlsruhe-Python-Meetup/events/258260105/
 
+## Python Generators
+
+ * Occasion: Python Meetup Karlsruhe, 2020-02-19
+ * https://www.meetup.com/Karlsruhe-Python-Meetup/
+ * https://www.meetup.com/Karlsruhe-Python-Meetup/events/268164146/
+
