@@ -36,3 +36,9 @@ I also gave this talk at the inaugural Python Meetup Stuttgart in April 2019:
  * https://www.meetup.com/data-science-karlsruhe/
  * https://www.meetup.com/data-science-karlsruhe/events/257374630/
 
+## Two Neat Decorators for Testing and Caching
+
+ * Occasion: Python Meetup Karlsruhe, 2019-04-11
+ * https://www.meetup.com/Karlsruhe-Python-Meetup/
+ * https://www.meetup.com/Karlsruhe-Python-Meetup/events/258260105/
+
