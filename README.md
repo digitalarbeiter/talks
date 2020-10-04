@@ -20,3 +20,9 @@ Video: https://www.youtube.com/watch?v=Z17JLncewyo
 
 Slides are on some old hard drive I have yet to dig up...
 
+## Threads, fork(), Deadlocks und Tests
+
+Occasion: Python Meetup Karlsruhe
+https://www.meetup.com/Karlsruhe-Python-Meetup/
+https://www.meetup.com/Karlsruhe-Python-Meetup/events/248886432/
+
