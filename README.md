@@ -22,10 +22,17 @@ Slides are on some old hard drive I have yet to dig up...
 
 ## Threads, fork(), Deadlocks und Tests
 
- * Occasion: Python Meetup Karlsruhe
+ * Occasion: Python Meetup Karlsruhe, 2018-07-10
  * https://www.meetup.com/Karlsruhe-Python-Meetup/
  * https://www.meetup.com/Karlsruhe-Python-Meetup/events/248886432/
 
 I also gave this talk at the inaugural Python Meetup Stuttgart in April 2019:
  * https://www.meetup.com/de-DE/python-stuttgart/events/260144147/
+
+## A Brief History of Category Classification
+
+ * Occasion: Data Science Meetup Karlsruhe, 2019-01-29
+ * My contribution to "10 years of automated category classification at solute GmbH"
+ * https://www.meetup.com/data-science-karlsruhe/
+ * https://www.meetup.com/data-science-karlsruhe/events/257374630/
 
